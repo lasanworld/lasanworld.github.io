@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>LaSanWorld</title>
-    <link href="https://lasanworld.github.io/feed.xml" rel="self" />
-    <link href="https://lasanworld.github.io" />
+    <link href="https://lasanworld.com/feed.xml" rel="self" />
+    <link href="https://lasanworld.com" />
     <updated>2026-05-15T15:11:17+07:00</updated>
     <author>
         <name>La San</name>
     </author>
-    <id>https://lasanworld.github.io</id>
+    <id>https://lasanworld.com</id>
 
     <entry>
         <title>Tôi Là Nữ Đại Tỷ Phú Đầu Tiên Trong Gia Đình</title>
         <author>
             <name>La San</name>
         </author>
-        <link href="https://lasanworld.github.io/toi-la-nu-dai-ty-phu-dau-tien-trong-gia-dinh/"/>
-        <id>https://lasanworld.github.io/toi-la-nu-dai-ty-phu-dau-tien-trong-gia-dinh/</id>
+        <link href="https://lasanworld.com/toi-la-nu-dai-ty-phu-dau-tien-trong-gia-dinh/"/>
+        <id>https://lasanworld.com/toi-la-nu-dai-ty-phu-dau-tien-trong-gia-dinh/</id>
 
         <updated>2026-05-15T15:11:17+07:00</updated>
             <summary type="html">
