@@ -5,23 +5,10 @@
     "home_page_url": "https://lasanworld.com",
     "feed_url": "https://lasanworld.com/feed.json",
     "user_comment": "",
-    "icon": "https://lasanworld.com/media/website/Adobe-Express-file.png",
+    "icon": "https://lasanworld.com/media/website/LaSanWorld-Trong-Suot-2.png",
     "author": {
         "name": "La San"
     },
     "items": [
-        {
-            "id": "https://lasanworld.com/toi-la-nu-dai-ty-phu-dau-tien-trong-gia-dinh/",
-            "url": "https://lasanworld.com/toi-la-nu-dai-ty-phu-dau-tien-trong-gia-dinh/",
-            "title": "Tôi Là Nữ Đại Tỷ Phú Đầu Tiên Trong Gia Đình",
-            "summary": "Tôi sở hữu bản lĩnh phi thường để vượt qua mọi giới hạn bản thân. Sự kiên trì của tôi là chìa khóa dẫn lối đến mọi thành công lớn. Tôi dũng cảm đối diện với sự thật và bảo&hellip;",
-            "author": {
-                "name": "La San"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-05-15T15:11:17+07:00",
-            "date_modified": "2026-05-15T15:11:17+07:00"
-        }
     ]
 }
