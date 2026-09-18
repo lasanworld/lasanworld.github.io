@@ -10,5 +10,20 @@
         "name": "La San"
     },
     "items": [
+        {
+            "id": "https://lasanworld.com/body-neutrality-healing-and-loving-your-body-through-gratitude/",
+            "url": "https://lasanworld.com/body-neutrality-healing-and-loving-your-body-through-gratitude/",
+            "title": "Body neutrality: healing and loving your body through gratitude",
+            "summary": "In a world that keeps pushing body positivity, the idea that you should always feel beautiful and radiant, what happens on the days you look in the mirror and simply can't force yourself to love a stretch mark, a waistline,&hellip;",
+            "image": "https://lasanworld.com/media/posts/8/Body-neutrality-2.png",
+            "author": {
+                "name": "La San"
+            },
+            "tags": [
+                   "Self-Love &amp; Body Affirmations"
+            ],
+            "date_published": "2026-09-17T19:22:59+07:00",
+            "date_modified": "2026-09-18T15:21:21+07:00"
+        }
     ]
 }
